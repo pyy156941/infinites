@@ -1,0 +1,17 @@
+{
+	title: "Sticks",
+	x: -1.5d,
+	y: 2.0d,
+	text: [
+		"Break dead bushes to get stick."
+	],
+	tasks: [{
+		uid: "82745fd2",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}],
+		count: 2L,
+		consume_items: false
+	}]
+}

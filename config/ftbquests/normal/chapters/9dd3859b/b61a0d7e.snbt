@@ -1,0 +1,18 @@
+{
+	x: -7.5d,
+	y: -6.0d,
+	dependencies: [
+		"54785373"
+	],
+	tasks: [{
+		uid: "02ba8431",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 125L
+	}],
+	rewards: [{
+		uid: "daef6e22",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

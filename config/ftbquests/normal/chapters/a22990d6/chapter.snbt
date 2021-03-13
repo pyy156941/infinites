@@ -1,0 +1,10 @@
+{
+	title: "I",
+	icon: "minecraft:sandstone",
+	description: [
+		"Survive, build primitive tools"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

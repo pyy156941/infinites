@@ -1,0 +1,18 @@
+{
+	x: -9.5d,
+	y: -4.5d,
+	dependencies: [
+		"ea0ecafd"
+	],
+	tasks: [{
+		uid: "baf91b82",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 3125L
+	}],
+	rewards: [{
+		uid: "053cc909",
+		type: "xp_levels",
+		xp_levels: 50
+	}]
+}

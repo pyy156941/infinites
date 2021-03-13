@@ -1,0 +1,10 @@
+{
+	title: "II",
+	icon: "immersiveengineering:tool",
+	description: [
+		"Immersive Engineering"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

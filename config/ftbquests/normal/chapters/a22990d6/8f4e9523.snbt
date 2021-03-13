@@ -1,0 +1,14 @@
+{
+	title: "Sandstone",
+	x: -1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "a0604044",
+		type: "item",
+		items: [{
+			item: "minecraft:sandstone"
+		}],
+		count: 7L,
+		consume_items: false
+	}]
+}

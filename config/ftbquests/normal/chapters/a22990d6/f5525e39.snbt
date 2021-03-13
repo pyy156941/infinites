@@ -1,0 +1,21 @@
+{
+	x: 0.5d,
+	y: 3.0d,
+	text: [
+		"Craft a sandstone pickaxe using 3 sandstones and 2 sticks in the crafting station."
+	],
+	dependencies: [
+		"86f8af88",
+		"64695695",
+		"8f4e9523"
+	],
+	tasks: [{
+		uid: "5a5196fa",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:sandstone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

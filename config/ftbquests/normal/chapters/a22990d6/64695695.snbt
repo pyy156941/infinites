@@ -1,0 +1,25 @@
+{
+	title: "Workbench",
+	x: 0.5d,
+	y: 1.5d,
+	text: [
+		"Use 4 sandstones to craft a crafting station."
+	],
+	dependencies: [
+		"8f4e9523"
+	],
+	tasks: [{
+		uid: "b33f9d0d",
+		type: "item",
+		title: "Any workbench",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "workbench",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}
