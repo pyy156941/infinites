@@ -14,5 +14,5 @@ recipes.addShapeless(<contentweaker:dirty_fishs_leather_block>,
 
 recipes.addShaped(<contentweaker:dirty_fishs_premium_leather_block>, 
 	[[<contenttweaker:dirty_fishs_leather_block>, <minecraft:nether_star>, <contenttweaker:dirty_fishs_leather_block>], 
-	[<minecraft:dragon_egg>, <>, <>], 
+	[<minecraft:dragon_egg>, <minecraft:dragon_breath>, <minecraft:dragon_breath>], 
 	[<contenttweaker:dirty_fishs_leather_block>, <minecraft:nether_star>, <contenttweaker:dirty_fishs_leather_block>]]);

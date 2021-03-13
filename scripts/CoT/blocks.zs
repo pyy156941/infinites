@@ -41,7 +41,7 @@ dflb.slipperiness = 0.84;
 dflb.creativeTab = <creativetab:decorations>;
 dflb.register();
 
-var dfplb as Block = VanillaFactory.createBlock("dirty_fishs_premium_leather_block", <blockmaterial:metal>);
+var dfplb as Block = VanillaFactory.createBlock("dirty_fishs_premium_leather_block", <blockmaterial:cloth>);
 dfplb.lightOpacity = 3;
 dfplb.lightValue = 9;
 dfplb.blockHardness = 120.0;
