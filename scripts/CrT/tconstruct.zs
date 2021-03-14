@@ -10,7 +10,7 @@ Melting.removeRecipe(<liquid:iron>, <minecraft:detector_rail>);
 Melting.removeRecipe(<liquid:gold>, <minecraft:golden_rail>);
 
 Melting.addRecipe(<liquid:molten_leather> * 144, <minecraft:leather>);
-Melting.addRecipe(<liquid:molten_leather> * 1296，<contentweaker:leather_block>);
+Melting.addRecipe(<liquid:molten_leather> * 1296, <contenttweaker:leather_block>);
 Melting.addRecipe(<liquid:molten_leather> * 720, <minecraft:leather_helmet>);
 Melting.addRecipe(<liquid:molten_leather> * 1152, <minecraft:leather_chestplate>);
 Melting.addRecipe(<liquid:molten_leather> * 1008, <minecraft:leather_leggings>);

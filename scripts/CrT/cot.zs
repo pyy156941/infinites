@@ -9,10 +9,10 @@ recipes.addShapeless(<contenttweaker:dirty_fish>,
 recipes.addShaped(<contenttweaker:dirty_fish_block>, 
 	[[<contenttweaker:dirty_fish>, <contenttweaker:dirty_fish>],
 	[<contenttweaker:dirty_fish>, <contenttweaker:dirty_fish>]]);
-recipes.addShapeless(<contentweaker:dirty_fishs_leather_block>, 
+recipes.addShapeless(<contenttweaker:dirty_fishs_leather_block>, 
 	[<contenttweaker:dirty_fish_block>, <contenttweaker:leather_block>]);
 
-recipes.addShaped(<contentweaker:dirty_fishs_premium_leather_block>, 
+recipes.addShaped(<contenttweaker:dirty_fishs_premium_leather_block>, 
 	[[<contenttweaker:dirty_fishs_leather_block>, <minecraft:nether_star>, <contenttweaker:dirty_fishs_leather_block>], 
 	[<minecraft:dragon_egg>, <minecraft:dragon_breath>, <minecraft:dragon_breath>], 
 	[<contenttweaker:dirty_fishs_leather_block>, <minecraft:nether_star>, <contenttweaker:dirty_fishs_leather_block>]]);
