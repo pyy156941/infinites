@@ -1,1 +1,2 @@
-# infinites
+# Desert Continent
+Desert Continent is a Minecraft Modpack that aims to be very creative(Not finished yet). Player borns in a superflat desert world instead of classical Overworld, they'll use special tweaked ways to get resources.
